@@ -1,0 +1,4 @@
+{ "dir_name" : "/home/dong/datalearn/data",
+  "file_name" : "left-right.csv",
+  "training_ratio" : "0.6"
+}
